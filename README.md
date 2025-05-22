@@ -23,4 +23,4 @@ I wanted to challenge myself to recreate a part of a real website to improve my 
 
 ---
 
-As per usual, if you're going to steal or use it at least credit me please.
+As per usual, if you're going to steal or use it at least credit me please. (On that note, check out Ubadah Sabbagh's Website: https://ubadahsabbagh.com
